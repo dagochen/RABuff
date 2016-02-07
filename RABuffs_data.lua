@@ -981,9 +981,23 @@ RAB_Buffs = 	{
 			arcane={name="Arcane Elixir",textures={"INV_Potion_30"},castClass="Item",invert=true,type="self",type="self"},
 			greaterarcane={name="Greater Arcane Elixir",textures={"INV_Potion_25"},castClass="Item",invert=true,type="self"},
 			mongoose={name="Elixir of the Mongoose",textures={"INV_Potion_32"},castClass="Item",invert=true,type="self"},
-			--mungo={name="Elixier des Mungos",textures={"INV_Potion_32"},castClass="Item",invert=true,type="self"},
+			mageblood={name="Mageblood Potion", textures={"INV_Potion_45"},castClass="Item",invert=true,type="self"},
+            firewater={name="Winterfell Firewater", textures={"INV_Potion_92"},castClass="Item",invert=true,type="self"},
+            jujupower={name="Juju Power", textures={"INV_Misc_MonsterScales_11"},castClass="Item",invert=true,type="self"},
+            jujumight={name="Juju Might", textures={"INV_Misc_MonsterScales_07"},castClass="Item",invert=true,type="self"},
+			
+            wellfed={name="Well Fed", textures={"Spell_Misc_Food"},castClass="Item", invert=true,type="self"},
+            tuber={name="Runn Tum Tuber Surprise",textures={"INV_Misc_Organ_03"},castClass="Item",invert=true,type="self"},
+            squid={name="Winter Squid",textures={"INV_Gauntlets_19"},castClass="Item",invert=true,type="self"},
+            nightfin={name="Nightfin Soup",textures={"Spell_Nature_ManaRegenTotem"},castClass="Item",invert=true,type="self"},
+            
+            naturepot={name="Greater Nature Protection Potion",textures={"Spell_Nature_SpiritArmor"},castClass="Item",invert=true,type="self"},
+            shadowpot={name="Greater Shadow Protection Potion",textures={"Spell_Shadow_RagingScream"},castClass="Item",invert=true,type="self"},
+            firepot={name="Greater Fire Protection Potion",textures={"Spell_Fire_FireArmor"},castClass="Item",invert=true,type="self"},
+            
+            spelldmg={name="Flask of Supreme Power",textures={"INV_Potion_41"},castClass="Item",invert=true,type="self"},
+            wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",invert=true,type="self"},
 			titans={name="Flask of the Titans",textures={"INV_Potion_62"},castClass="Item",invert=true,type="self"},
-			tuber={name="Runn Tum Tuber Surprise",textures={"INV_Misc_Organ_03"},castClass="Item",invert=true,type="self"},
 
 			flute={name="Piccolo of the Dancing Flame",textures={"INV_Misc_Flute_01"},castClass="Item",invert=true,type="aura"},
 			adcommision={name="Argent Dawn Commission",textures={"INV_Jewelry_Talisman_07"},castClass="Item",invert=true,type="self"},
