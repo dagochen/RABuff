@@ -977,8 +977,6 @@ RAB_Buffs = 	{
 			hat={name="Admiral's Hat",textures={"INV_Misc_Horn_03"},castClass="Item",type="aura"},
 
 			giants={name="Elixir of the Giants",textures={"INV_Potion_61"},castClass="Item",invert=true,type="self"},
-			sages={name="Elixir of the Sages",textures={"INV_Potion_29"},castClass="Item",invert=true,type="self"},
-			arcane={name="Arcane Elixir",textures={"INV_Potion_30"},castClass="Item",invert=true,type="self",type="self"},
 			greaterarcane={name="Greater Arcane Elixir",textures={"INV_Potion_25"},castClass="Item",invert=true,type="self"},
 			mongoose={name="Elixir of the Mongoose",textures={"INV_Potion_32"},castClass="Item",invert=true,type="self"},
 			mageblood={name="Mageblood Potion", textures={"INV_Potion_45"},castClass="Item",invert=true,type="self"},
@@ -1003,10 +1001,10 @@ RAB_Buffs = 	{
             wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",invert=true,type="self"},
 			titans={name="Flask of the Titans",textures={"INV_Potion_62"},castClass="Item",invert=true,type="self"},
 
-			flute={name="Piccolo of the Dancing Flame",textures={"INV_Misc_Flute_01"},castClass="Item",invert=true,type="aura"},
-			adcommision={name="Argent Dawn Commission",textures={"INV_Jewelry_Talisman_07"},castClass="Item",invert=true,type="self"},
-			furbolg={name="Furbolg Transform",textures={"INV_Misc_MonsterClaw_04"},castClass="Item",invert=true},
-			cozyfire={name="Cozy Fire",textures={"Spell_Fire_Fire"},castClass="Item",type="aura",invert=true},
+			--flute={name="Piccolo of the Dancing Flame",textures={"INV_Misc_Flute_01"},castClass="Item",invert=true,type="aura"},
+			--adcommision={name="Argent Dawn Commission",textures={"INV_Jewelry_Talisman_07"},castClass="Item",invert=true,type="self"},
+			--furbolg={name="Furbolg Transform",textures={"INV_Misc_MonsterClaw_04"},castClass="Item",invert=true},
+			--cozyfire={name="Cozy Fire",textures={"Spell_Fire_Fire"},castClass="Item",type="aura",invert=true},
 
 			frostmark={name="Mark of Frost",textures={"Spell_Frost_ChainsOfIce"},invert=true,type="debuff"},
 			naturemark={name="Mark of Nature",textures={"Spell_Nature_SpiritArmor"},invert=true,type="debuff"},
