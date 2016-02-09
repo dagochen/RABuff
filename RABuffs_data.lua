@@ -986,7 +986,7 @@ RAB_Buffs = 	{
             rum={name="Rumsey Rum Black Label", textures={"INV_Drink_04"},castClass="Item",invert=true,type="self"},
 			
             shadowpower={name="Elixir of Shadow Power", textures={"INV_Potion_46"},castClass="Item",invert=true,type="self"},
-            firepower={name="Elixir of Fire Power", textures={"INV_Potion_33"},castClass="Item",invert=true,type="self"},
+            firepower={name="Elixir of Fire Power", textures={"INV_Potion_60"},castClass="Item",invert=true,type="self"},
             frostpower={name="Elixir of Frost Power", textures={"INV_Potion_03"},castClass="Item",invert=true,type="self"},
             
             wellfed={name="Well Fed", textures={"Spell_Misc_Food"},castClass="Item", invert=true,type="self"},
