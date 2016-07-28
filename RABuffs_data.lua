@@ -972,6 +972,7 @@ RAB_Buffs = 	{
 			flag={name="WSG Flag",textures={"INV_BannerPVP_01","INV_BannerPVP_02"},invert=true,havebuff="Carrying Flag",missbuff="No Flag"},
 			battlestandard={name="Battle Standard",textures={"INV_Banner_02","INV_Banner_01"},castClass="Item",invert=true,type="aura"},
 
+			zandalarbuff={name="Spirit of Zandalar",textures={"ABILITY_Creature_Poison_05"},castClass="Item"}, 
 			dragonslayer={name="Rallying Cry of the Dragonslayer",textures={"INV_Misc_Head_Dragon_01"},castClass="Item"},
 			regen={name="Regenerating",textures={"INV_Drink_18","INV_Drink_07","INV_Misc_Fork&Knife"},castClass="Item",invert=true,havebuff="Regenerating",missbuff="Not Regenerating",type="self"},
 			hat={name="Admiral's Hat",textures={"INV_Misc_Horn_03"},castClass="Item",type="aura"},
@@ -985,6 +986,7 @@ RAB_Buffs = 	{
             jujumight={name="Juju Might", textures={"INV_Misc_MonsterScales_07"},castClass="Item",type="self"},
             rum={name="Rumsey Rum Black Label", textures={"INV_Drink_04"},castClass="Item",type="self"},
 			trollblood={name="Major Trollblood Potion",textures={"INV_Potion_80"}, castClass="Item", type="self"},
+			fortitude={name="Elixir of Fortitude",textures={"INV_Potion_43"}, castClass="Item", type="self"},
             
             shadowpower={name="Elixir of Shadow Power", textures={"INV_Potion_46"},castClass="Item",type="self"},
             firepower={name="Elixir of Fire Power", textures={"INV_Potion_60"},castClass="Item",type="self"},
@@ -1003,11 +1005,9 @@ RAB_Buffs = 	{
             wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",type="self"},
 			titans={name="Flask of the Titans",textures={"INV_Potion_62"},castClass="Item",type="self"},
 
-			--flute={name="Piccolo of the Dancing Flame",textures={"INV_Misc_Flute_01"},castClass="Item",invert=true,type="aura"},
-			--adcommision={name="Argent Dawn Commission",textures={"INV_Jewelry_Talisman_07"},castClass="Item",invert=true,type="self"},
-			--furbolg={name="Furbolg Transform",textures={"INV_Misc_MonsterClaw_04"},castClass="Item",invert=true},
-			--cozyfire={name="Cozy Fire",textures={"Spell_Fire_Fire"},castClass="Item",type="aura",invert=true},
+			
 
+		
 			frostmark={name="Mark of Frost",textures={"Spell_Frost_ChainsOfIce"},invert=true,type="debuff"},
 			naturemark={name="Mark of Nature",textures={"Spell_Nature_SpiritArmor"},invert=true,type="debuff"},
 			shazz={name="Amplify Magic [Shazzrah]",textures={"Spell_Arcane_StarFire"},type="debuff"},
