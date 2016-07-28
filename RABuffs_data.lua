@@ -1009,8 +1009,9 @@ RAB_Buffs = 	{
             wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",type="self"},
 			titans={name="Flask of the Titans",textures={"INV_Potion_62"},castClass="Item",type="self"},
 
-			
-
+			spiritofzanza={name="Spirit of Zanza",textures={"INV_Potion_30"},castClass="Item",type="self"},
+			sheenofzanza={name="Sheen of Zanza",textures={"INV_Potion_29"},castClass="Item",type="self"},
+			swiftnessofzanza={name="Swiftness of Zanza",textures={"INV_Potion_31"},castClass="Item",type="self"}, 
 		
 			frostmark={name="Mark of Frost",textures={"Spell_Frost_ChainsOfIce"},invert=true,type="debuff"},
 			naturemark={name="Mark of Nature",textures={"Spell_Nature_SpiritArmor"},invert=true,type="debuff"},
