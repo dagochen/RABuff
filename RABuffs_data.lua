@@ -974,6 +974,10 @@ RAB_Buffs = 	{
 
 			zandalarbuff={name="Spirit of Zandalar",textures={"ABILITY_Creature_Poison_05"}, type="special"}, 
 			dragonslayer={name="Rallying Cry of the Dragonslayer",textures={"INV_Misc_Head_Dragon_01"}, type="special"},
+			fengus={name="Fengus' Ferocity (DM-N Tribute)",textures={"Spell_Nature_Undyingstrength"}, type="special"},
+			slipkik={name="Slip'kik's Savvy (DM-N Tribute)",textures={"Spell_Holy_LesserHeal02"}, type="special"},
+			moldar={name="Mol'dar's Moxie (DM-N Tribute)",textures={"Spell_Nature_Massteleport"}, type="special"},
+
 			regen={name="Regenerating",textures={"INV_Drink_18","INV_Drink_07","INV_Misc_Fork&Knife"},castClass="Item",invert=true,havebuff="Regenerating",missbuff="Not Regenerating",type="self"},
 			hat={name="Admiral's Hat",textures={"INV_Misc_Horn_03"},castClass="Item",type="aura"},
 
