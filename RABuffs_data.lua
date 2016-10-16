@@ -988,7 +988,7 @@ RAB_Buffs = 	{
             firewater={name="Winterfell Firewater", textures={"INV_Potion_92"},castClass="Item",type="self"},
             jujupower={name="Juju Power", textures={"INV_Misc_MonsterScales_11"},castClass="Item",type="self"},
             jujumight={name="Juju Might", textures={"INV_Misc_MonsterScales_07"},castClass="Item",type="self"},
-            rum={name="Rumsey Rum Black Label", textures={"INV_Drink_04"},castClass="Item",type="self"},
+            rum={name="Any Rum", textures={"INV_Drink_04", "INV_Drink_03", "INV_Drink_08"},castClass="Item",type="self"},
 			trollblood={name="Major Trollblood Potion",textures={"INV_Potion_80"}, castClass="Item", type="self"},
 			fortitude={name="Elixir of Fortitude",textures={"INV_Potion_44"}, castClass="Item", type="self"},
             
