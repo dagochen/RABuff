@@ -990,7 +990,7 @@ RAB_Buffs = 	{
             jujumight={name="Juju Might", textures={"INV_Misc_MonsterScales_07"},castClass="Item",type="self"},
             rum={name="Rumsey Rum Black Label", textures={"INV_Drink_04"},castClass="Item",type="self"},
 			trollblood={name="Major Trollblood Potion",textures={"INV_Potion_80"}, castClass="Item", type="self"},
-			fortitude={name="Elixir of Fortitude",textures={"INV_Potion_43"}, castClass="Item", type="self"},
+			fortitude={name="Elixir of Fortitude",textures={"INV_Potion_44"}, castClass="Item", type="self"},
             
             shadowpower={name="Elixir of Shadow Power", textures={"INV_Potion_46"},castClass="Item",type="self"},
             firepower={name="Elixir of Fire Power", textures={"INV_Potion_60"},castClass="Item",type="self"},
