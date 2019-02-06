@@ -1003,7 +1003,8 @@ RAB_Buffs = 	{
             
             naturepot={name="Greater Nature Protection Potion",textures={"Spell_Nature_SpiritArmor"},castClass="Item",type="self"},
             shadowpot={name="Greater Shadow Protection Potion",textures={"Spell_Shadow_RagingScream"},castClass="Item",type="self"},
-            firepot={name="Greater Fire Protection Potion",textures={"Spell_Fire_FireArmor"},castClass="Item",type="self"},
+			firepot={name="Greater Fire Protection Potion",textures={"Spell_Fire_FireArmor"},castClass="Item",type="self"},
+			frostpot={name="Greater Frost Protection Potion",textures={"Spell_Frost_FrostArmor02"},castClass="Item",type="self"},
             
             spelldmg={name="Flask of Supreme Power",textures={"INV_Potion_41"},castClass="Item",type="self"},
             wisdom={name="Flask of Distilled Wisdom",textures={"INV_Potion_97"},castClass="Item",type="self"},
